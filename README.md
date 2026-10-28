@@ -1,6 +1,6 @@
 # 배틀스파이어 한국어 패처
 
-**[Windows 패처 다운로드](https://github.com/munument1/-KR-Battlespire/releases)**
+**[Windows 패처 다운로드](https://github.com/munument1/Battlespire-KR/releases)**
 
 An Elder Scrolls Legend: Battlespire **Steam 1.5 원본**에 한국어 번역과 한글 출력 패치를 적용합니다. Python 설치 없이 실행하는 Windows 프로그램을 제공합니다. 대사·서적·이미지 UI와 함께 **GAME.EXE 내부 직업/기술 화면, 능력치, 상단 메시지와 도움말**을 포함합니다.
 
